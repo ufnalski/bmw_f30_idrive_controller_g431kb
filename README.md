@@ -1,5 +1,5 @@
 # BMW F30/F31 iDrive controller [STM32G431KB]
-The part number is [926170403](https://allegro.pl/listing?string=926170403).
+The part number is [926170403](https://allegro.pl/listing?string=926170403) or [926170404](https://allegro.pl/listing?string=926170404).
 
 ![BMW F30 iDrive controller in action](/Assets/Images/bmw_f30_idrive_in_action.jpg)
 ![BMW F30 iDrive controller in pieces](/Assets/Images/bmw_f30_idrive_in_pieces.jpg)
